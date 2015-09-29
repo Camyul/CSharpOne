@@ -7,7 +7,7 @@ namespace Hi_Git
     {
         static void Main()
         {
-            Console.WriteLine("Hi, Git");
+           Console.WriteLine("Hi, Git");
         }
     }
 }
