@@ -1,13 +1,10 @@
 ﻿using System;
 
-
-namespace Hi_Git
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main()
-        {
-           Console.WriteLine("Hi, Git");
-        }
+        Console.WriteLine("Hi, Git");
     }
 }
+
