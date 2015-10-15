@@ -11,7 +11,7 @@ using System.Threading;
             int DateDiff = DateNow.Year - DateBorn.Year;
             if  (DateNow.Month < DateBorn.Month)
             {
-                DateDiff--;
+            DateDiff--;
             }
             if (DateNow.Month == DateBorn.Month)
             {
